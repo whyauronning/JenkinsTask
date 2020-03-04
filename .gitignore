@@ -6,11 +6,5 @@
 *.bak
 *.ncb
 *.log 
-
-target/
-.classpath
-.project
-.settings
-
 *.DS_Store
 [Tt]humbs.db
